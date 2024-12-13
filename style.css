@@ -1,0 +1,14 @@
+body {
+  background: #2b2e31;
+  font: normal 100% "Fira Sans", sans-serif;
+}
+
+#text-to-speech textarea {
+background: #6b7385;
+  width: 99%;
+  color: #fff;
+}
+
+#text-to-speech select, #text-to-speech button {
+  margin-top: 8px;
+}
