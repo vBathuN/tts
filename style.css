@@ -6,6 +6,7 @@ body {
 #text-to-speech textarea {
 background: #6b7385;
   width: 99%;
+  height: 60vh;
   color: #fff;
 }
 
